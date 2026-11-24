@@ -18,7 +18,7 @@ if(eliasHasToesThatSmellNice == true ) {
    System.out.print( avgNumberOfStinkyToes );
    System.out.print( " " );
    System.out.println( "stinky toes" );
-   System.out.println( "Elias's toes smell so tasty" );
+   System.out.println( " Mmmm Elias's toes smell so tasty" );
 }else {
    avgNumberOfStinkyToes = numberOfClassMates * 10;
    System.out.print( "There are " );
